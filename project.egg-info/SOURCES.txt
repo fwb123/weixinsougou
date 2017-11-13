@@ -1,0 +1,16 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+weixinsougou/__init__.py
+weixinsougou/items.py
+weixinsougou/middlewares.py
+weixinsougou/pipelines.py
+weixinsougou/settings.py
+weixinsougou/mysqlpiplines/__init__.py
+weixinsougou/mysqlpiplines/piplines.py
+weixinsougou/mysqlpiplines/sql.py
+weixinsougou/spiders/Weixinsougou.py
+weixinsougou/spiders/__init__.py
